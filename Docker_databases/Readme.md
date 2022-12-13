@@ -11,7 +11,7 @@
           'mysql -uroot -p'   - u for user and -p for password, it will promt for password enter password as test123
           
        Now check databses
-          'show databses;'
+          'show databases;'
           
        Create a Database
           'create database <database_name>;'
